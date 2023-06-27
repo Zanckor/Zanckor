@@ -13,11 +13,10 @@ Here are some areas in which I have experience:
 
 - Custom Items/Blocks
 - Entity Creation (with and without using GeckoLib)
-- Custom biome creation with TerraBlender + Placed Features + Structure Generation
+- Custom basic biome creation with TerraBlender + Placed Features + Structure Generation
 - UI/UX Creation
-- Custom Recipes
 - JSON Management
-- Loot Table, Placed Features...
+- Loot Table, Placed Features, Recipes...
 - Particles
 - Data Management (Saved Data, Capabilities, Persistent Data...)
 - Event handling + Custom Events
