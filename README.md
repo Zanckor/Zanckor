@@ -28,7 +28,7 @@ I have worked on several projects, including QuestAPI, whose code is public. I a
 
 - [Stabx Modern Guns](https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.3)
 
-I also have experience with Java pure, making a simple Application that minimize Spotify as an Overlay
+I also have experience with Java vanilla, making a simple Application that minimize Spotify as an Overlay
 - [Spotify Overlay](https://github.com/Zanckor/OverlaySpotify)
 
 ## Contact
