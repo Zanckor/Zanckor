@@ -23,10 +23,10 @@ Here are some areas in which I have experience:
 ## Projects and Contributions
 
 I have worked on several projects, including QuestAPI, whose code is public. I am currently working on the development of DragonCubeZ and AtmospheriCraft, both of which are in progress. I have also contributed to resolving code errors in Stabx Modern Guns. You can find the projects and their respective links below:
-- [QuestAPI](https://github.com/Zanckor/QuestAPI)
+- [Project - QuestAPI](https://github.com/Zanckor/QuestAPI)
+- [Project - Advanced Inventory](https://github.com/Zanckor/Advanced-Inventory)
 
-
-- [Stabx Modern Guns](https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.3)
+- [Worked On - Stabx Modern Guns](https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.3)
 
 I also have experience with Java vanilla, making a simple Application that minimize Spotify as an Overlay
 - [Spotify Overlay](https://github.com/Zanckor/OverlaySpotify)
