@@ -23,8 +23,8 @@ Here are some areas in which I have experience:
 ## Projects and Contributions
 
 I have worked on several projects, including QuestAPI, whose code is public. I am currently working on the development of DragonCubeZ and AtmospheriCraft, both of which are in progress. I have also contributed to resolving code errors in Stabx Modern Guns. You can find the projects and their respective links below:
+- [Project - CobblemonRider](https://github.com/Zanckor/CobblemonRider/tree/master) [625.000 Downloads](https://www.curseforge.com/minecraft/mc-mods/cobblemonrider)
 - [Project - Advanced Inventory](https://github.com/Zanckor/Advanced-Inventory)
-- [Project - CobblemonRider](https://github.com/Zanckor/CobblemonRider/tree/master)
 - [Project - Palmon](https://github.com/Zanckor/PalmonWiki/wiki)
   
 - [Worked On - Stabx Modern Guns](https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.3)
